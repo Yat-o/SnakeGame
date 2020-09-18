@@ -1,3 +1,7 @@
+"""
+Made By Yato
+"""
+
 import random 
 import curses
 
